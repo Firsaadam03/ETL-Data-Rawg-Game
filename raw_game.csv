@@ -1,0 +1,201 @@
+id,name,released,tba,background_image,rating,rating_top,ratings_count,metacritic,playtime,updated,reviews_count,esrb_rating,release_year,rating_category,metacritic_category
+3498,Grand Theft Auto V,2013-09-17,False,https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg,4.47,5,7414,92.0,74,2026-07-05 04:51:07,7549,Mature,2013,Recommended,Must Play
+3328,The Witcher 3: Wild Hunt,2015-05-18,False,https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg,4.64,5,7238,92.0,43,2026-07-05 04:49:39,7358,Mature,2015,Exceptional,Must Play
+4200,Portal 2,2011-04-18,False,https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg,4.58,5,6118,95.0,11,2026-06-27 08:52:52,6175,Everyone 10+,2011,Exceptional,Must Play
+4291,Counter-Strike: Global Offensive,2012-08-21,False,https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg,3.57,4,3639,81.0,64,2026-07-03 05:12:50,3676,Mature,2012,Recommended,Great
+5286,Tomb Raider,2013-03-05,False,https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg,4.06,4,4104,86.0,10,2026-07-02 18:25:47,4137,Mature,2013,Recommended,Great
+13536,Portal,2007-10-09,False,https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg,4.49,5,5031,90.0,4,2026-07-02 10:59:23,5076,Teen,2007,Recommended,Must Play
+12020,Left 4 Dead 2,2009-11-17,False,https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg,4.1,4,3408,89.0,9,2026-06-24 18:04:30,3435,Mature,2009,Recommended,Great
+28,Red Dead Redemption 2,2018-10-26,False,https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg,4.59,5,5531,96.0,21,2026-07-04 12:24:36,5664,Mature,2018,Exceptional,Must Play
+5679,The Elder Scrolls V: Skyrim,2011-11-11,False,https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg,4.42,5,4938,94.0,46,2026-07-03 05:39:15,4994,Mature,2011,Recommended,Must Play
+13537,Half-Life 2,2004-11-16,False,https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg,4.48,5,4107,96.0,7,2026-07-04 17:40:38,4135,Mature,2004,Recommended,Must Play
+4062,BioShock Infinite,2013-03-26,False,https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg,4.38,5,4177,94.0,12,2026-07-03 05:32:09,4219,Mature,2013,Recommended,Must Play
+802,Borderlands 2,2012-09-18,False,https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg,4.01,4,3319,89.0,11,2026-06-26 00:13:52,3340,Mature,2012,Recommended,Great
+3439,Life is Strange,2015-01-29,False,https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg,4.12,5,3777,83.0,6,2026-07-02 01:14:22,3825,Mature,2015,Recommended,Great
+4286,BioShock,2007-08-21,False,https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg,4.36,5,3366,96.0,3,2026-06-27 08:09:47,3410,Mature,2007,Recommended,Must Play
+58175,God of War (2018),2018-04-20,False,https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg,4.54,5,5178,94.0,15,2026-07-03 05:44:56,5286,Mature,2018,Exceptional,Must Play
+32,Destiny 2,2017-09-06,False,https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg,3.52,4,2669,82.0,6,2026-06-14 16:54:08,2695,Teen,2017,Recommended,Great
+3070,Fallout 4,2015-11-09,False,https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg,3.81,4,3439,84.0,38,2026-07-02 01:12:31,3476,Mature,2015,Recommended,Great
+1030,Limbo,2010-07-21,False,https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg,4.14,4,3404,88.0,3,2026-06-24 18:04:07,3447,Teen,2010,Recommended,Great
+3939,PAYDAY 2,2013-08-13,False,https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg,3.52,4,2245,79.0,9,2026-06-24 18:04:50,2268,Adults Only,2013,Recommended,Great
+11859,Team Fortress 2,2007-10-10,False,https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg,3.68,4,2938,92.0,8,2026-06-24 18:04:31,2968,Mature,2007,Recommended,Must Play
+2454,DOOM (2016),2016-05-12,False,https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg,4.38,5,3634,85.0,10,2026-06-10 17:45:56,3675,Mature,2016,Recommended,Great
+41494,Cyberpunk 2077,2020-12-10,False,https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg,4.23,5,3033,73.0,29,2026-07-05 04:49:13,3141,Mature,2020,Recommended,Good
+422,Terraria,2011-05-16,False,https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg,4.08,4,2477,81.0,15,2026-07-02 00:54:26,2505,Teen,2011,Recommended,Great
+4459,Grand Theft Auto IV,2008-04-29,False,https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg,4.26,4,3113,95.0,10,2026-07-03 05:30:07,3148,Mature,2008,Recommended,Must Play
+10213,Dota 2,2013-07-09,False,https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg,3.07,3,2861,90.0,14,2026-07-03 05:09:28,2900,,2013,meh,Must Play
+766,Warframe,2013-03-25,False,https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg,3.42,4,2114,73.0,8,2026-07-02 01:55:28,2129,,2013,meh,Good
+3272,Rocket League,2015-07-07,False,https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg,3.93,4,2865,86.0,21,2026-07-02 01:55:28,2889,Everyone,2015,Recommended,Great
+278,Horizon Zero Dawn,2017-02-28,False,https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg,4.27,5,3780,89.0,11,2026-07-05 04:48:56,3830,Teen,2017,Recommended,Great
+29028,Metro 2033,2010-03-16,False,https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg,3.94,4,2291,79.0,2,2026-07-02 22:29:37,2298,Mature,2010,Recommended,Great
+7689,Rise of the Tomb Raider,2015-11-10,False,https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg,4.04,4,2813,86.0,14,2026-07-04 17:37:23,2836,,2015,Recommended,Great
+3287,Batman: Arkham Knight,2015-06-23,False,https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg,4.24,4,2691,81.0,19,2026-07-02 18:28:08,2715,Mature,2015,Recommended,Great
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,False,https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg,4.16,5,2534,91.0,22,2026-07-02 18:28:16,2553,Mature,2015,Recommended,Must Play
+416,Grand Theft Auto: San Andreas,2004-10-26,False,https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg,4.5,5,4086,93.0,2,2026-07-05 04:50:33,4115,Mature,2004,Exceptional,Must Play
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,False,https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg,4.17,4,2184,88.0,7,2026-06-25 14:23:39,2199,Mature,2012,Recommended,Great
+290856,Apex Legends,2019-02-04,False,https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg,3.63,4,2419,80.0,5,2026-06-10 19:27:50,2445,Teen,2019,Recommended,Great
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,False,https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg,4.06,4,2056,86.0,5,2026-06-28 16:20:04,2071,Mature,2008,Recommended,Great
+9767,Hollow Knight,2017-02-23,False,https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg,4.41,5,2751,88.0,7,2026-07-05 04:52:00,2812,Everyone 10+,2017,Recommended,Great
+11973,Middle-earth: Shadow of Mordor,2014-09-30,False,https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg,3.91,4,2560,85.0,13,2026-07-04 17:37:41,2591,Mature,2014,Recommended,Great
+23027,The Walking Dead: Season 1,2012-04-23,False,https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg,4.36,5,2493,92.0,8,2026-07-02 01:14:42,2517,Mature,2012,Recommended,Must Play
+19103,Half-Life 2: Lost Coast,2005-10-27,False,https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg,3.46,4,1173,,1,2026-06-24 18:03:35,1176,Mature,2005,meh,Mix
+3498,Grand Theft Auto V,2013-09-17,False,https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg,4.47,5,7414,92.0,74,2026-07-05 04:51:07,7549,Mature,2013,Recommended,Must Play
+3328,The Witcher 3: Wild Hunt,2015-05-18,False,https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg,4.64,5,7238,92.0,43,2026-07-05 04:49:39,7358,Mature,2015,Exceptional,Must Play
+4200,Portal 2,2011-04-18,False,https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg,4.58,5,6118,95.0,11,2026-06-27 08:52:52,6175,Everyone 10+,2011,Exceptional,Must Play
+4291,Counter-Strike: Global Offensive,2012-08-21,False,https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg,3.57,4,3639,81.0,64,2026-07-03 05:12:50,3676,Mature,2012,Recommended,Great
+5286,Tomb Raider,2013-03-05,False,https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg,4.06,4,4104,86.0,10,2026-07-02 18:25:47,4137,Mature,2013,Recommended,Great
+13536,Portal,2007-10-09,False,https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg,4.49,5,5031,90.0,4,2026-07-02 10:59:23,5076,Teen,2007,Recommended,Must Play
+12020,Left 4 Dead 2,2009-11-17,False,https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg,4.1,4,3408,89.0,9,2026-06-24 18:04:30,3435,Mature,2009,Recommended,Great
+28,Red Dead Redemption 2,2018-10-26,False,https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg,4.59,5,5531,96.0,21,2026-07-04 12:24:36,5664,Mature,2018,Exceptional,Must Play
+5679,The Elder Scrolls V: Skyrim,2011-11-11,False,https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg,4.42,5,4938,94.0,46,2026-07-03 05:39:15,4994,Mature,2011,Recommended,Must Play
+13537,Half-Life 2,2004-11-16,False,https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg,4.48,5,4107,96.0,7,2026-07-04 17:40:38,4135,Mature,2004,Recommended,Must Play
+4062,BioShock Infinite,2013-03-26,False,https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg,4.38,5,4177,94.0,12,2026-07-03 05:32:09,4219,Mature,2013,Recommended,Must Play
+802,Borderlands 2,2012-09-18,False,https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg,4.01,4,3319,89.0,11,2026-06-26 00:13:52,3340,Mature,2012,Recommended,Great
+3439,Life is Strange,2015-01-29,False,https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg,4.12,5,3777,83.0,6,2026-07-02 01:14:22,3825,Mature,2015,Recommended,Great
+4286,BioShock,2007-08-21,False,https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg,4.36,5,3366,96.0,3,2026-06-27 08:09:47,3410,Mature,2007,Recommended,Must Play
+58175,God of War (2018),2018-04-20,False,https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg,4.54,5,5178,94.0,15,2026-07-03 05:44:56,5286,Mature,2018,Exceptional,Must Play
+32,Destiny 2,2017-09-06,False,https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg,3.52,4,2669,82.0,6,2026-06-14 16:54:08,2695,Teen,2017,Recommended,Great
+3070,Fallout 4,2015-11-09,False,https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg,3.81,4,3439,84.0,38,2026-07-02 01:12:31,3476,Mature,2015,Recommended,Great
+1030,Limbo,2010-07-21,False,https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg,4.14,4,3404,88.0,3,2026-06-24 18:04:07,3447,Teen,2010,Recommended,Great
+3939,PAYDAY 2,2013-08-13,False,https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg,3.52,4,2245,79.0,9,2026-06-24 18:04:50,2268,Adults Only,2013,Recommended,Great
+11859,Team Fortress 2,2007-10-10,False,https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg,3.68,4,2938,92.0,8,2026-06-24 18:04:31,2968,Mature,2007,Recommended,Must Play
+2454,DOOM (2016),2016-05-12,False,https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg,4.38,5,3634,85.0,10,2026-06-10 17:45:56,3675,Mature,2016,Recommended,Great
+41494,Cyberpunk 2077,2020-12-10,False,https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg,4.23,5,3033,73.0,29,2026-07-05 04:49:13,3141,Mature,2020,Recommended,Good
+422,Terraria,2011-05-16,False,https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg,4.08,4,2477,81.0,15,2026-07-02 00:54:26,2505,Teen,2011,Recommended,Great
+4459,Grand Theft Auto IV,2008-04-29,False,https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg,4.26,4,3113,95.0,10,2026-07-03 05:30:07,3148,Mature,2008,Recommended,Must Play
+10213,Dota 2,2013-07-09,False,https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg,3.07,3,2861,90.0,14,2026-07-03 05:09:28,2900,,2013,meh,Must Play
+766,Warframe,2013-03-25,False,https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg,3.42,4,2114,73.0,8,2026-07-02 01:55:28,2129,,2013,meh,Good
+3272,Rocket League,2015-07-07,False,https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg,3.93,4,2865,86.0,21,2026-07-02 01:55:28,2889,Everyone,2015,Recommended,Great
+278,Horizon Zero Dawn,2017-02-28,False,https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg,4.27,5,3780,89.0,11,2026-07-05 04:48:56,3830,Teen,2017,Recommended,Great
+29028,Metro 2033,2010-03-16,False,https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg,3.94,4,2291,79.0,2,2026-07-02 22:29:37,2298,Mature,2010,Recommended,Great
+7689,Rise of the Tomb Raider,2015-11-10,False,https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg,4.04,4,2813,86.0,14,2026-07-04 17:37:23,2836,,2015,Recommended,Great
+3287,Batman: Arkham Knight,2015-06-23,False,https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg,4.24,4,2691,81.0,19,2026-07-02 18:28:08,2715,Mature,2015,Recommended,Great
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,False,https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg,4.16,5,2534,91.0,22,2026-07-02 18:28:16,2553,Mature,2015,Recommended,Must Play
+416,Grand Theft Auto: San Andreas,2004-10-26,False,https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg,4.5,5,4086,93.0,2,2026-07-05 04:50:33,4115,Mature,2004,Exceptional,Must Play
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,False,https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg,4.17,4,2184,88.0,7,2026-06-25 14:23:39,2199,Mature,2012,Recommended,Great
+290856,Apex Legends,2019-02-04,False,https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg,3.63,4,2419,80.0,5,2026-06-10 19:27:50,2445,Teen,2019,Recommended,Great
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,False,https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg,4.06,4,2056,86.0,5,2026-06-28 16:20:04,2071,Mature,2008,Recommended,Great
+9767,Hollow Knight,2017-02-23,False,https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg,4.41,5,2751,88.0,7,2026-07-05 04:52:00,2812,Everyone 10+,2017,Recommended,Great
+11973,Middle-earth: Shadow of Mordor,2014-09-30,False,https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg,3.91,4,2560,85.0,13,2026-07-04 17:37:41,2591,Mature,2014,Recommended,Great
+23027,The Walking Dead: Season 1,2012-04-23,False,https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg,4.36,5,2493,92.0,8,2026-07-02 01:14:42,2517,Mature,2012,Recommended,Must Play
+19103,Half-Life 2: Lost Coast,2005-10-27,False,https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg,3.46,4,1173,,1,2026-06-24 18:03:35,1176,Mature,2005,meh,Mix
+3498,Grand Theft Auto V,2013-09-17,False,https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg,4.47,5,7414,92.0,74,2026-07-05 04:51:07,7549,Mature,2013,Recommended,Must Play
+3328,The Witcher 3: Wild Hunt,2015-05-18,False,https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg,4.64,5,7238,92.0,43,2026-07-05 04:49:39,7358,Mature,2015,Exceptional,Must Play
+4200,Portal 2,2011-04-18,False,https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg,4.58,5,6118,95.0,11,2026-06-27 08:52:52,6175,Everyone 10+,2011,Exceptional,Must Play
+4291,Counter-Strike: Global Offensive,2012-08-21,False,https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg,3.57,4,3639,81.0,64,2026-07-03 05:12:50,3676,Mature,2012,Recommended,Great
+5286,Tomb Raider,2013-03-05,False,https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg,4.06,4,4104,86.0,10,2026-07-02 18:25:47,4137,Mature,2013,Recommended,Great
+13536,Portal,2007-10-09,False,https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg,4.49,5,5031,90.0,4,2026-07-02 10:59:23,5076,Teen,2007,Recommended,Must Play
+12020,Left 4 Dead 2,2009-11-17,False,https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg,4.1,4,3408,89.0,9,2026-06-24 18:04:30,3435,Mature,2009,Recommended,Great
+28,Red Dead Redemption 2,2018-10-26,False,https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg,4.59,5,5531,96.0,21,2026-07-04 12:24:36,5664,Mature,2018,Exceptional,Must Play
+5679,The Elder Scrolls V: Skyrim,2011-11-11,False,https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg,4.42,5,4938,94.0,46,2026-07-03 05:39:15,4994,Mature,2011,Recommended,Must Play
+13537,Half-Life 2,2004-11-16,False,https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg,4.48,5,4107,96.0,7,2026-07-04 17:40:38,4135,Mature,2004,Recommended,Must Play
+4062,BioShock Infinite,2013-03-26,False,https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg,4.38,5,4177,94.0,12,2026-07-03 05:32:09,4219,Mature,2013,Recommended,Must Play
+802,Borderlands 2,2012-09-18,False,https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg,4.01,4,3319,89.0,11,2026-06-26 00:13:52,3340,Mature,2012,Recommended,Great
+3439,Life is Strange,2015-01-29,False,https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg,4.12,5,3777,83.0,6,2026-07-02 01:14:22,3825,Mature,2015,Recommended,Great
+4286,BioShock,2007-08-21,False,https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg,4.36,5,3366,96.0,3,2026-06-27 08:09:47,3410,Mature,2007,Recommended,Must Play
+58175,God of War (2018),2018-04-20,False,https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg,4.54,5,5178,94.0,15,2026-07-03 05:44:56,5286,Mature,2018,Exceptional,Must Play
+32,Destiny 2,2017-09-06,False,https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg,3.52,4,2669,82.0,6,2026-06-14 16:54:08,2695,Teen,2017,Recommended,Great
+3070,Fallout 4,2015-11-09,False,https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg,3.81,4,3439,84.0,38,2026-07-02 01:12:31,3476,Mature,2015,Recommended,Great
+1030,Limbo,2010-07-21,False,https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg,4.14,4,3404,88.0,3,2026-06-24 18:04:07,3447,Teen,2010,Recommended,Great
+3939,PAYDAY 2,2013-08-13,False,https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg,3.52,4,2245,79.0,9,2026-06-24 18:04:50,2268,Adults Only,2013,Recommended,Great
+11859,Team Fortress 2,2007-10-10,False,https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg,3.68,4,2938,92.0,8,2026-06-24 18:04:31,2968,Mature,2007,Recommended,Must Play
+2454,DOOM (2016),2016-05-12,False,https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg,4.38,5,3634,85.0,10,2026-06-10 17:45:56,3675,Mature,2016,Recommended,Great
+41494,Cyberpunk 2077,2020-12-10,False,https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg,4.23,5,3033,73.0,29,2026-07-05 04:49:13,3141,Mature,2020,Recommended,Good
+422,Terraria,2011-05-16,False,https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg,4.08,4,2477,81.0,15,2026-07-02 00:54:26,2505,Teen,2011,Recommended,Great
+4459,Grand Theft Auto IV,2008-04-29,False,https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg,4.26,4,3113,95.0,10,2026-07-03 05:30:07,3148,Mature,2008,Recommended,Must Play
+10213,Dota 2,2013-07-09,False,https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg,3.07,3,2861,90.0,14,2026-07-03 05:09:28,2900,,2013,meh,Must Play
+766,Warframe,2013-03-25,False,https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg,3.42,4,2114,73.0,8,2026-07-02 01:55:28,2129,,2013,meh,Good
+3272,Rocket League,2015-07-07,False,https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg,3.93,4,2865,86.0,21,2026-07-02 01:55:28,2889,Everyone,2015,Recommended,Great
+278,Horizon Zero Dawn,2017-02-28,False,https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg,4.27,5,3780,89.0,11,2026-07-05 04:48:56,3830,Teen,2017,Recommended,Great
+29028,Metro 2033,2010-03-16,False,https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg,3.94,4,2291,79.0,2,2026-07-02 22:29:37,2298,Mature,2010,Recommended,Great
+7689,Rise of the Tomb Raider,2015-11-10,False,https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg,4.04,4,2813,86.0,14,2026-07-04 17:37:23,2836,,2015,Recommended,Great
+3287,Batman: Arkham Knight,2015-06-23,False,https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg,4.24,4,2691,81.0,19,2026-07-02 18:28:08,2715,Mature,2015,Recommended,Great
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,False,https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg,4.16,5,2534,91.0,22,2026-07-02 18:28:16,2553,Mature,2015,Recommended,Must Play
+416,Grand Theft Auto: San Andreas,2004-10-26,False,https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg,4.5,5,4086,93.0,2,2026-07-05 04:50:33,4115,Mature,2004,Exceptional,Must Play
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,False,https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg,4.17,4,2184,88.0,7,2026-06-25 14:23:39,2199,Mature,2012,Recommended,Great
+290856,Apex Legends,2019-02-04,False,https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg,3.63,4,2419,80.0,5,2026-06-10 19:27:50,2445,Teen,2019,Recommended,Great
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,False,https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg,4.06,4,2056,86.0,5,2026-06-28 16:20:04,2071,Mature,2008,Recommended,Great
+9767,Hollow Knight,2017-02-23,False,https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg,4.41,5,2751,88.0,7,2026-07-05 04:52:00,2812,Everyone 10+,2017,Recommended,Great
+11973,Middle-earth: Shadow of Mordor,2014-09-30,False,https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg,3.91,4,2560,85.0,13,2026-07-04 17:37:41,2591,Mature,2014,Recommended,Great
+23027,The Walking Dead: Season 1,2012-04-23,False,https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg,4.36,5,2493,92.0,8,2026-07-02 01:14:42,2517,Mature,2012,Recommended,Must Play
+19103,Half-Life 2: Lost Coast,2005-10-27,False,https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg,3.46,4,1173,,1,2026-06-24 18:03:35,1176,Mature,2005,meh,Mix
+3498,Grand Theft Auto V,2013-09-17,False,https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg,4.47,5,7414,92.0,74,2026-07-05 04:51:07,7549,Mature,2013,Recommended,Must Play
+3328,The Witcher 3: Wild Hunt,2015-05-18,False,https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg,4.64,5,7238,92.0,43,2026-07-05 04:49:39,7358,Mature,2015,Exceptional,Must Play
+4200,Portal 2,2011-04-18,False,https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg,4.58,5,6118,95.0,11,2026-06-27 08:52:52,6175,Everyone 10+,2011,Exceptional,Must Play
+4291,Counter-Strike: Global Offensive,2012-08-21,False,https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg,3.57,4,3639,81.0,64,2026-07-03 05:12:50,3676,Mature,2012,Recommended,Great
+5286,Tomb Raider,2013-03-05,False,https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg,4.06,4,4104,86.0,10,2026-07-02 18:25:47,4137,Mature,2013,Recommended,Great
+13536,Portal,2007-10-09,False,https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg,4.49,5,5031,90.0,4,2026-07-02 10:59:23,5076,Teen,2007,Recommended,Must Play
+12020,Left 4 Dead 2,2009-11-17,False,https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg,4.1,4,3408,89.0,9,2026-06-24 18:04:30,3435,Mature,2009,Recommended,Great
+28,Red Dead Redemption 2,2018-10-26,False,https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg,4.59,5,5531,96.0,21,2026-07-04 12:24:36,5664,Mature,2018,Exceptional,Must Play
+5679,The Elder Scrolls V: Skyrim,2011-11-11,False,https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg,4.42,5,4938,94.0,46,2026-07-03 05:39:15,4994,Mature,2011,Recommended,Must Play
+13537,Half-Life 2,2004-11-16,False,https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg,4.48,5,4107,96.0,7,2026-07-04 17:40:38,4135,Mature,2004,Recommended,Must Play
+4062,BioShock Infinite,2013-03-26,False,https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg,4.38,5,4177,94.0,12,2026-07-03 05:32:09,4219,Mature,2013,Recommended,Must Play
+802,Borderlands 2,2012-09-18,False,https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg,4.01,4,3319,89.0,11,2026-06-26 00:13:52,3340,Mature,2012,Recommended,Great
+3439,Life is Strange,2015-01-29,False,https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg,4.12,5,3777,83.0,6,2026-07-02 01:14:22,3825,Mature,2015,Recommended,Great
+4286,BioShock,2007-08-21,False,https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg,4.36,5,3366,96.0,3,2026-06-27 08:09:47,3410,Mature,2007,Recommended,Must Play
+58175,God of War (2018),2018-04-20,False,https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg,4.54,5,5178,94.0,15,2026-07-03 05:44:56,5286,Mature,2018,Exceptional,Must Play
+32,Destiny 2,2017-09-06,False,https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg,3.52,4,2669,82.0,6,2026-06-14 16:54:08,2695,Teen,2017,Recommended,Great
+3070,Fallout 4,2015-11-09,False,https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg,3.81,4,3439,84.0,38,2026-07-02 01:12:31,3476,Mature,2015,Recommended,Great
+1030,Limbo,2010-07-21,False,https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg,4.14,4,3404,88.0,3,2026-06-24 18:04:07,3447,Teen,2010,Recommended,Great
+3939,PAYDAY 2,2013-08-13,False,https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg,3.52,4,2245,79.0,9,2026-06-24 18:04:50,2268,Adults Only,2013,Recommended,Great
+11859,Team Fortress 2,2007-10-10,False,https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg,3.68,4,2938,92.0,8,2026-06-24 18:04:31,2968,Mature,2007,Recommended,Must Play
+2454,DOOM (2016),2016-05-12,False,https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg,4.38,5,3634,85.0,10,2026-06-10 17:45:56,3675,Mature,2016,Recommended,Great
+41494,Cyberpunk 2077,2020-12-10,False,https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg,4.23,5,3033,73.0,29,2026-07-05 04:49:13,3141,Mature,2020,Recommended,Good
+422,Terraria,2011-05-16,False,https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg,4.08,4,2477,81.0,15,2026-07-02 00:54:26,2505,Teen,2011,Recommended,Great
+4459,Grand Theft Auto IV,2008-04-29,False,https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg,4.26,4,3113,95.0,10,2026-07-03 05:30:07,3148,Mature,2008,Recommended,Must Play
+10213,Dota 2,2013-07-09,False,https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg,3.07,3,2861,90.0,14,2026-07-03 05:09:28,2900,,2013,meh,Must Play
+766,Warframe,2013-03-25,False,https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg,3.42,4,2114,73.0,8,2026-07-02 01:55:28,2129,,2013,meh,Good
+3272,Rocket League,2015-07-07,False,https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg,3.93,4,2865,86.0,21,2026-07-02 01:55:28,2889,Everyone,2015,Recommended,Great
+278,Horizon Zero Dawn,2017-02-28,False,https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg,4.27,5,3780,89.0,11,2026-07-05 04:48:56,3830,Teen,2017,Recommended,Great
+29028,Metro 2033,2010-03-16,False,https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg,3.94,4,2291,79.0,2,2026-07-02 22:29:37,2298,Mature,2010,Recommended,Great
+7689,Rise of the Tomb Raider,2015-11-10,False,https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg,4.04,4,2813,86.0,14,2026-07-04 17:37:23,2836,,2015,Recommended,Great
+3287,Batman: Arkham Knight,2015-06-23,False,https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg,4.24,4,2691,81.0,19,2026-07-02 18:28:08,2715,Mature,2015,Recommended,Great
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,False,https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg,4.16,5,2534,91.0,22,2026-07-02 18:28:16,2553,Mature,2015,Recommended,Must Play
+416,Grand Theft Auto: San Andreas,2004-10-26,False,https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg,4.5,5,4086,93.0,2,2026-07-05 04:50:33,4115,Mature,2004,Exceptional,Must Play
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,False,https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg,4.17,4,2184,88.0,7,2026-06-25 14:23:39,2199,Mature,2012,Recommended,Great
+290856,Apex Legends,2019-02-04,False,https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg,3.63,4,2419,80.0,5,2026-06-10 19:27:50,2445,Teen,2019,Recommended,Great
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,False,https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg,4.06,4,2056,86.0,5,2026-06-28 16:20:04,2071,Mature,2008,Recommended,Great
+9767,Hollow Knight,2017-02-23,False,https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg,4.41,5,2751,88.0,7,2026-07-05 04:52:00,2812,Everyone 10+,2017,Recommended,Great
+11973,Middle-earth: Shadow of Mordor,2014-09-30,False,https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg,3.91,4,2560,85.0,13,2026-07-04 17:37:41,2591,Mature,2014,Recommended,Great
+23027,The Walking Dead: Season 1,2012-04-23,False,https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg,4.36,5,2493,92.0,8,2026-07-02 01:14:42,2517,Mature,2012,Recommended,Must Play
+19103,Half-Life 2: Lost Coast,2005-10-27,False,https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg,3.46,4,1173,,1,2026-06-24 18:03:35,1176,Mature,2005,meh,Mix
+3498,Grand Theft Auto V,2013-09-17,False,https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg,4.47,5,7414,92.0,74,2026-07-05 04:51:07,7549,Mature,2013,Recommended,Must Play
+3328,The Witcher 3: Wild Hunt,2015-05-18,False,https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg,4.64,5,7238,92.0,43,2026-07-05 04:49:39,7358,Mature,2015,Exceptional,Must Play
+4200,Portal 2,2011-04-18,False,https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg,4.58,5,6118,95.0,11,2026-06-27 08:52:52,6175,Everyone 10+,2011,Exceptional,Must Play
+4291,Counter-Strike: Global Offensive,2012-08-21,False,https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg,3.57,4,3639,81.0,64,2026-07-03 05:12:50,3676,Mature,2012,Recommended,Great
+5286,Tomb Raider,2013-03-05,False,https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg,4.06,4,4104,86.0,10,2026-07-02 18:25:47,4137,Mature,2013,Recommended,Great
+13536,Portal,2007-10-09,False,https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg,4.49,5,5031,90.0,4,2026-07-02 10:59:23,5076,Teen,2007,Recommended,Must Play
+12020,Left 4 Dead 2,2009-11-17,False,https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg,4.1,4,3408,89.0,9,2026-06-24 18:04:30,3435,Mature,2009,Recommended,Great
+28,Red Dead Redemption 2,2018-10-26,False,https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg,4.59,5,5531,96.0,21,2026-07-04 12:24:36,5664,Mature,2018,Exceptional,Must Play
+5679,The Elder Scrolls V: Skyrim,2011-11-11,False,https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg,4.42,5,4938,94.0,46,2026-07-03 05:39:15,4994,Mature,2011,Recommended,Must Play
+13537,Half-Life 2,2004-11-16,False,https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg,4.48,5,4107,96.0,7,2026-07-04 17:40:38,4135,Mature,2004,Recommended,Must Play
+4062,BioShock Infinite,2013-03-26,False,https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg,4.38,5,4177,94.0,12,2026-07-03 05:32:09,4219,Mature,2013,Recommended,Must Play
+802,Borderlands 2,2012-09-18,False,https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg,4.01,4,3319,89.0,11,2026-06-26 00:13:52,3340,Mature,2012,Recommended,Great
+3439,Life is Strange,2015-01-29,False,https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg,4.12,5,3777,83.0,6,2026-07-02 01:14:22,3825,Mature,2015,Recommended,Great
+4286,BioShock,2007-08-21,False,https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg,4.36,5,3366,96.0,3,2026-06-27 08:09:47,3410,Mature,2007,Recommended,Must Play
+58175,God of War (2018),2018-04-20,False,https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg,4.54,5,5178,94.0,15,2026-07-03 05:44:56,5286,Mature,2018,Exceptional,Must Play
+32,Destiny 2,2017-09-06,False,https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg,3.52,4,2669,82.0,6,2026-06-14 16:54:08,2695,Teen,2017,Recommended,Great
+3070,Fallout 4,2015-11-09,False,https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg,3.81,4,3439,84.0,38,2026-07-02 01:12:31,3476,Mature,2015,Recommended,Great
+1030,Limbo,2010-07-21,False,https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg,4.14,4,3404,88.0,3,2026-06-24 18:04:07,3447,Teen,2010,Recommended,Great
+3939,PAYDAY 2,2013-08-13,False,https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg,3.52,4,2245,79.0,9,2026-06-24 18:04:50,2268,Adults Only,2013,Recommended,Great
+11859,Team Fortress 2,2007-10-10,False,https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg,3.68,4,2938,92.0,8,2026-06-24 18:04:31,2968,Mature,2007,Recommended,Must Play
+2454,DOOM (2016),2016-05-12,False,https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg,4.38,5,3634,85.0,10,2026-06-10 17:45:56,3675,Mature,2016,Recommended,Great
+41494,Cyberpunk 2077,2020-12-10,False,https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg,4.23,5,3033,73.0,29,2026-07-05 04:49:13,3141,Mature,2020,Recommended,Good
+422,Terraria,2011-05-16,False,https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg,4.08,4,2477,81.0,15,2026-07-02 00:54:26,2505,Teen,2011,Recommended,Great
+4459,Grand Theft Auto IV,2008-04-29,False,https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg,4.26,4,3113,95.0,10,2026-07-03 05:30:07,3148,Mature,2008,Recommended,Must Play
+10213,Dota 2,2013-07-09,False,https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg,3.07,3,2861,90.0,14,2026-07-03 05:09:28,2900,,2013,meh,Must Play
+766,Warframe,2013-03-25,False,https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg,3.42,4,2114,73.0,8,2026-07-02 01:55:28,2129,,2013,meh,Good
+3272,Rocket League,2015-07-07,False,https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg,3.93,4,2865,86.0,21,2026-07-02 01:55:28,2889,Everyone,2015,Recommended,Great
+278,Horizon Zero Dawn,2017-02-28,False,https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg,4.27,5,3780,89.0,11,2026-07-05 04:48:56,3830,Teen,2017,Recommended,Great
+29028,Metro 2033,2010-03-16,False,https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg,3.94,4,2291,79.0,2,2026-07-02 22:29:37,2298,Mature,2010,Recommended,Great
+7689,Rise of the Tomb Raider,2015-11-10,False,https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg,4.04,4,2813,86.0,14,2026-07-04 17:37:23,2836,,2015,Recommended,Great
+3287,Batman: Arkham Knight,2015-06-23,False,https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg,4.24,4,2691,81.0,19,2026-07-02 18:28:08,2715,Mature,2015,Recommended,Great
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,False,https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg,4.16,5,2534,91.0,22,2026-07-02 18:28:16,2553,Mature,2015,Recommended,Must Play
+416,Grand Theft Auto: San Andreas,2004-10-26,False,https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg,4.5,5,4086,93.0,2,2026-07-05 04:50:33,4115,Mature,2004,Exceptional,Must Play
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,False,https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg,4.17,4,2184,88.0,7,2026-06-25 14:23:39,2199,Mature,2012,Recommended,Great
+290856,Apex Legends,2019-02-04,False,https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg,3.63,4,2419,80.0,5,2026-06-10 19:27:50,2445,Teen,2019,Recommended,Great
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,False,https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg,4.06,4,2056,86.0,5,2026-06-28 16:20:04,2071,Mature,2008,Recommended,Great
+9767,Hollow Knight,2017-02-23,False,https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg,4.41,5,2751,88.0,7,2026-07-05 04:52:00,2812,Everyone 10+,2017,Recommended,Great
+11973,Middle-earth: Shadow of Mordor,2014-09-30,False,https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg,3.91,4,2560,85.0,13,2026-07-04 17:37:41,2591,Mature,2014,Recommended,Great
+23027,The Walking Dead: Season 1,2012-04-23,False,https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg,4.36,5,2493,92.0,8,2026-07-02 01:14:42,2517,Mature,2012,Recommended,Must Play
+19103,Half-Life 2: Lost Coast,2005-10-27,False,https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg,3.46,4,1173,,1,2026-06-24 18:03:35,1176,Mature,2005,meh,Mix

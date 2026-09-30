@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rawrg-game-project",
+  "private_key_id": "935ce19cb607b655d7a0a7bba60c6efd78e5698d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDc1EfEbZxFFq0v\nzjaG1YKzNS5GHTRFPRDXaFxhBjOIHgWnOxQZdAIuJraBgiFMV30k6MgovvG8YShA\noSWMIzYZmI9g2hJg6XwwMuhyMn9sJZgJQbWeUPCRzbSODbXlB23V7xRDfrrkpzAQ\nhXyXxTNHOOwnPmjhJfL6N6C78yXrG+KHMPqixx3Ir2X64W9eYfQze0CXwZyjHN+E\nmErfIqH0tpVq2dKSPxvULr79dk2UUSsru4937ubAC4GEFhke9yOaCrhxPREFs9/X\nRiFZScc7n1jX+FGlJFRuskn0HJn7+kKRbB5q8F/B43rjZ4VXMWmj0ilI9PLYyLm6\nKB6GpIkLAgMBAAECggEACskKvkhqNEz2EBp+uu7M+jVejrRuG/RDu87lis7o5RIu\nTYDLAQPo+ARnr9iWtBSmeznWo3gmn1WRco1MTlVeluPGxkCwWsUHOJAWnpPieaTh\nEZFWLlF0BnL+XrJtuq4LtRdUV92QgYq8Lrpjn5f/4qUgPORv7pB8wbAbghfPN3XR\nxUtbQPZitz2owDi6zKh3KGvzZm2SahMZ3fKWlw8zCVSALCPiI27Ttdeb5Hmm9Ygc\nY5BipMyEnwBjIVrRddAvYpCDNJDf9V3TLafc3mzcXYPMbG7V3nxYGYHLyvMmSUwZ\nUvqmrT0W7ipohJHsBjq6iFCxdF6ud4SMY1ebLqhpeQKBgQD56TsVf8A+Mxv6TW0n\nvMGMH4NFn+xD174FXXsHPnG1iTWCkny+K5CWfpjauR1rNzF1cd+SApmlJYpdxqx9\neuic8BUkvmGrPMTYu5RzrzoL+Tr/c2cZhuYRlKcZTrdJHCVcT//dxT7f9p7Itg7f\nnJVZ5ZUE6O6KcStHu0Zkb+4C8wKBgQDiNahTItDVS/3foVbEDEVdb7xv0GR+2k/j\nLFfb9n+6iYiNLOWpbimcVAAZO63hdLm3Uy8jcnDbAIRogKwm8NM7dqks3acdrX3T\ntbQ48DYjY4soR8tF9Jw+QGKpy3vZ5XB50wARd+W2SvD7rgLLp1PmOv0A/hs3KWBt\nwI1A7QJ3iQJ/IDbwZtUQ8vOjp6BTccvjJyzovxDeY+BrnkVuloB2J/CH9Uzsx5bW\nDJBFI+y43hk/RuRm7WtoYuFz9KKnmYU+dvx7vUDNVkV/GnETsdXkpaZ69HLr116M\nSbff0mNTPRljt4KYeP30HOqtjTHquOh2WCBAFWHxXec4rQZ3DHthMwKBgADOxD0X\nwLsiPFPSFac5i/3bakbT7afuS566B85HQQl/eDdY07EZLZjbS+zLI8HMUuVurJpp\nzDFb/R0KaJLzBS4PLGd2myQl/G8HFQ+m++qAbnzEVNt5Fh26yR9mFJkgkpg8wqFN\nVkqiVd3wLx5fCJOn3kNkpOA7i5aYu2hh8EJRAoGBAJW9qqx/tLsGRog7lnJamtrm\nEPMYBfzTjEjAjvSNYFetB3n3WbtfaZVj1JnJasdpIWoMZuL645y+P11q/UoKfwGF\nsEhVIPXvdcomlujRZeJMKD+LScXX3PyiZgf4De3TlneC9Sdzw1cbyIZPjUI0Y1n2\nA54yBaqzb+YBZwkB7gQt\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query-service-account@rawrg-game-project.iam.gserviceaccount.com",
+  "client_id": "104194765865035520687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query-service-account%40rawrg-game-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
